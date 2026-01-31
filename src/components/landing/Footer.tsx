@@ -77,7 +77,7 @@ export function Footer() {
             © {new Date().getFullYear()} RoomCraft. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
-            Made By Aaradhya Jha
+            Made By ADS
           </p>
         </div>
       </div>
